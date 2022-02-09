@@ -1,13 +1,3 @@
-#First you need to install some modules 
-'''
-First open your command prompt and type
-pip install pyttsx3
-
-in case you get some error
-then type
-
-pip install pypiwin32
-'''
 from http import server 
 import speech_recognition as sr
 import requests
